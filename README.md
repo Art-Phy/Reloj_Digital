@@ -3,9 +3,9 @@
 ### Es un progama simple para practicar Python, para principiantes.
 
 ### Usaré el módulo 'time', ya que el objetivo es jugar un poco con la interfaz del reloj en si.
-### Indicará no sólo la hora, el día de la semana, día del mes y el mes en el que nos encontramos.
+### Indicará no sólo la hora, el día de la semana, día del mes y el mes en el que nos encontramos también. Se muestra cómo codificar para que el resultado sea en español.
 
-### Para crear la interfaz, uso tkinter
+### Para crear la interfaz, uso tkinter. Añadimos un poco de color y listo.
 
 > ##### El formato es en 24 horas
 
