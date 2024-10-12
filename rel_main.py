@@ -22,12 +22,13 @@ def update_time():
 root = tk.Tk()
 root.title("Reloj Digital")
 root.geometry("500x200")
+root.configure(bg="black") # fondo de la ventana
 
 # se crean etiquetas para la hora y la fecha
-time_label = tk.Label(root, font=("Rouge", 45), fg="black", bg="gray")
-time_label.pack(pady=20)
+time_label = tk.Label(root, font=("Helvetica bold", 45) , fg="#00f0ff", bg="black")
+time_label.pack(pady=10)
 
-date_label = tk.Label(root, font=("Rouge", 15), fg="white", bg="gray")
+date_label = tk.Label(root, font=("Rouge", 15), fg="#00f0ff", bg="black")
 date_label.pack(pady=10)
 
 # llamar la función de tiempo
