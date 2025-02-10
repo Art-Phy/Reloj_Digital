@@ -1,4 +1,4 @@
-# Bienvenid@s a Tu Reloj
+## Bienvenid@s a Tu Reloj
 
 #### Es un progama simple para practicar Python, para principiantes.
 
