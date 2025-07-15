@@ -1,11 +1,9 @@
 ## Bienvenid@s a Tu Reloj
 
-#### Es un progama simple para practicar Python, para principiantes.
+#### He utilizado el módulo 'time'
+#### Indicará no sólo la hora, el día de la semana, día del mes y el mes en el que nos encontramos también. Muestro también cómo codificar para que el resultado sea en español.
 
-#### Usaré el módulo 'time', ya que el objetivo es jugar un poco con la interfaz del reloj en si.
-#### Indicará no sólo la hora, el día de la semana, día del mes y el mes en el que nos encontramos también. Se muestra cómo codificar para que el resultado sea en español.
-
-#### Para crear la interfaz, uso tkinter. Añadimos un poco de color y listo.
+#### Para crear la interfaz, he usado tkinter.
 
 > ##### El formato es en 24 horas
 
