@@ -1,13 +1,14 @@
 ## Bienvenid@s a Tu Reloj
 
-#### He utilizado el módulo 'time'
-#### Indicará no sólo la hora, el día de la semana, día del mes y el mes en el que nos encontramos también. Muestro también cómo codificar para que el resultado sea en español.
+##### **Reloj**
 
-#### Para crear la interfaz, he usado tkinter.
+##### Indica la hora, el día de la semana, día del mes y el mes en el que nos encontramos.
 
-> ##### El formato es en 24 horas
+> [!NOTE]
+> ###### Para crear la interfaz, he usado tkinter.
+> ###### El formato es en 24 horas
 
-### Qué he usado
+#### Qué he usado
 
  - Visual Studio Code
  - Libro "Curso Intesivo de Python" de Eric Matthes
@@ -16,14 +17,6 @@
  - Documentación de GitHub [GitHub](https://docs.github.com/es)
  - Documentación Markdown [Markdown](https://markdown.es)
 
------------------------------
-### ¿Qué pretendo con esto?
-
-#### Sencillamente nada, simplemente compartir mi día a día iniciándome en la programación, con Python en este caso. 
-#### Soy partidario de que el conocimiento deber estar al alcance de todo el mundo, haciendo que todos podamos ayudarnos a crecer y mejorar.
-
-> ##### Si consideras útil el repositorio, apóyalo haciendo "★ Star" ¡Gracias!
-
-### Hola, mi nombre es Art
-
-Intento darle un cambio a mi vida profesional desde hace un año, si quieres subirte al carro y ayudarnos mutuamente, este es tu sitio.
+---
+> [!TIP]
+> ###### Si consideras útil el repositorio, apóyalo haciendo "★ Star" ¡Gracias!
